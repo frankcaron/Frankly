@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Frankly</string>
+    <string name="title_section1">Latest News</string>
+    <string name="title_section2">Read Later</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    //Colors
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#FF9900</color>
+    <color name="accent">#FFFFFF</color>
+</resources>
