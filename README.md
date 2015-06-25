@@ -11,6 +11,7 @@ A simple, gesture-driven and Material Design clad news reader app, with a compan
 2. Open the project with Android Studio.
 3. Make and run.
 
-
 ### Contributions
 Welcome, encouraged, etc. Send pull requests as desired.
+
+![Frankly](https://pbs.twimg.com/media/CITzgdIUwAAHFRV.png:large)
